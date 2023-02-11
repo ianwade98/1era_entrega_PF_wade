@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Buzo",
+    "descripcion": "Buzo Blanco de Algodon",
+    "price": 200,
+    "thumbnail": "http://localhost:8080/images/1639283328278.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Campera",
+    "descripcion": "Campera de cuero Negra",
+    "price": 200,
+    "thumbnail": "http://localhost:8080/images/1639283372304.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Zapatillas",
+    "descripcion": "Zapatillas Runing negras",
+    "price": 200,
+    "thumbnail": "http://localhost:8080/images/1639283421326.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Gorra",
+    "descripcion": "Gorra LA Azul",
+    "price": 200,
+    "thumbnail": "http://localhost:8080/images/1639283457181.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Remera",
+    "descripcion": "Remera Nike Blanca",
+    "price": 200,
+    "thumbnail": "http://localhost:8080/images/1639283487741.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "remera manga larga",
+    "price": "50",
+    "thumbnail": "http://localhost:8080/images/1663947742792.png"
+  }
+]
